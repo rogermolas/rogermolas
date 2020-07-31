@@ -1,5 +1,5 @@
 ### Hi there 👋
-Mainly work with Swift. C/C++ and Python
+Mainly work with Objective-C, Swift, C/C++ and Python.
 
 - 🔭 I’m currently working as an iOS Developer for **Turing** and **Carbid360**
 - 🔭 Help maintaning **CSV Localizer**, **MessengerKit** and **Spotify iOS SDK**
