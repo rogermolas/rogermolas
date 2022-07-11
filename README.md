@@ -1,8 +1,8 @@
 ### Hi there 👋
-Mainly work with iOS, Swift and Python.
+Mainly work in iOS, Swift and Python.
 
+- 📱 Software Consultant
 - 🔭 Help maintaning **CSV Localizer**, **MessengerKit**
-- 📱 Currently Software Consultant @instagram, @ping4, @veloLabs
 - 🐦 I’m at **twitter: roger_molas**
 - 💬 Ask me about projects at https://www.rogermolas.com/
 
