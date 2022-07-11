@@ -1,8 +1,8 @@
 ### Hi there 👋
-Mainly work with Objective-C, Swift, React Native, C/C++ and Python.
+Mainly work with iOS, Swift and Python.
 
 - 🔭 Help maintaning **CSV Localizer**, **MessengerKit**
-- 📱 Currently iOS Independent Contractor
+- 📱 Currently Software Consultant @instagram, @ping4, @veloLabs
 - 🐦 I’m at **twitter: roger_molas**
 - 💬 Ask me about projects at https://www.rogermolas.com/
 
