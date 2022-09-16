@@ -7,4 +7,4 @@ Mainly work in iOS, Swift and Python.
 - 💬 Ask me about projects at https://www.rogermolas.com/
 
 ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogermolas&count_private=true)
-![Roger's Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=rogermolas&layout=compact
+![Roger's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogermolas&layout=compact)
