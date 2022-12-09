@@ -1,5 +1,5 @@
 ### Software Consultant
-Mainly work in iOS, Swift, JS and Python.
+Mainly work in iOS, Swift, ReactJS, Python.
 - 🔭 Help maintaning **CSV Localizer**, **MessengerKit**
 - 💬 Ask me about projects at https://www.rogermolas.com/
 
